@@ -32,9 +32,9 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 </p>
 
-<br />
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">GitHub Stats & Profile Badges:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=maheshwaran7055&show_icons=true&theme=radial" alt="maheshwaran7055" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maheshwaran7055&layout=compact&theme=radial" alt="maheshwaran7055" height="150"/>
+  <img src="https://img.shields.io/badge/Role-Data%20Analyst-blue?style=for-the-badge&logo=python" alt="Data Analyst"/>
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20SQL-green?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/github/followers/maheshwaran7055?label=Followers&style=for-the-badge&color=orange" alt="Followers"/>
 </p>
