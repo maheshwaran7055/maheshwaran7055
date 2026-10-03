@@ -1,3 +1,23 @@
+ <h1 align="center">Hi 👋, I'm Maheshwaran M</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
+
+- 🔭 I’m currently working on **End-to-End Data Analytics & ML Projects**
+
+- 🌱 I’m currently learning **Advanced SQL, Power BI / Tableau, Machine Learning**
+
+- 👯 I’m looking to collaborate on **Data Visualization, Dashboarding & EDA Projects**
+
+- 💬 Ask me about **Data Analysis, SQL Queries, Predictive Modeling**
+
+- 📫 How to reach me **maheshwaran7055@gmail.com**
+
+- ⚡ Fun fact **I turn complex data into actionable insights and visual stories!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mari-muthu-837002219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mari-muthu-837002219" height="30" width="40" /></a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
